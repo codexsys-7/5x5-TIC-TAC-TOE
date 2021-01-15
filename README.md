@@ -1,4 +1,9 @@
 # 5x5-TIC-TAC-TOE
+Tic-Tac-Toe is a classic multiplayer game which is a stress buster for many people round the globe, Basically a classic tic-tac-toe is a 3*3 row and column game where people make X and O inside the boxes, when a player gets his X/O in a staight line on any side or Diagonally that players Wins the Game.
+So in order to make it a bit stuffy, This is a 5*5 Tic-Tac-Toe game which make it look Harder and also brings a lot of tricks and Brain to use in order to conquer/Win the Game.
+# Happy Playing.
+# See You On The Other Side.
+
 #include<iostream>
 #include<vector>
 
